@@ -8,7 +8,7 @@ def gross_for_director(director_data)
   while inner_index < director_data.length do
     director_data[] #im unsure what keys or indexs to call, i cant view the NDS the method is calling
   end
-
+??????????
 end
 
 # Write a method that, given an NDS creates a new Hash
